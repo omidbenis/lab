@@ -1,4 +1,3 @@
 warp://auto
-warp://License@auto
 warp://engage.cloudflareclient.com:2408/?ifp=5-10
 warp://auto#Warp_in_Warp &&detour=warp://auto#Warp_ir
