@@ -1,0 +1,6 @@
+warp://auto#Warp_in_Warp &&detour=warp://auto#Warp_ir
+warp://engage.cloudflareclient.com:2408/?ifp=5-10
+warp://188.114.97.155:8854/?ifp=5-10
+warp://162.159.195.174:8854/?ifp=5-10
+warp://162.159.195.208:3581/?ifp=5-10
+warp://188.114.98.219:8854/?ifp=5-10
