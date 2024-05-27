@@ -1,3 +1,8 @@
 warp://engage.cloudflareclient.com:2408/?ifp=5-10
 warp://auto#Warp_in_Warp&&detour=warp://auto#Warp_ir
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&path=6b777a91&host=jobscareerforlawyers.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-198.41.220.12:443
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&sni=avianrecruit.com&type=ws&path=/6b777a91&host=avianrecruit.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.159.2:443
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&path=/6b777a91&host=jobscareerfortoday.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-198.41.220.2:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@[::ffff:198.41.220.10]:443?security=tls&sni=jobscareerforstudent.com&type=ws&path=6b777a91&host=jobscareerforstudent.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-[::ffff:c629:dc0a]:443
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&path=6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A5451
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&path=6b777a91&host=bangladeshipatri.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.159.3:443
