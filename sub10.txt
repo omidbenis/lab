@@ -1,1 +1,1 @@
-trojan://your_password@16.171.12.136:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AASE(AzadNet.t.me)_008
+trojan://your_password@188.114.99.0:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#%F0%9F%87%B3%F0%9F%87%B1NL(AzadNet.t.me)_021
