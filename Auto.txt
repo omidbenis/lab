@@ -4,4 +4,3 @@ https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=162.159.192
 https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=162.159.192.49&port=988#T.ME/@GiGPlus
 https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=188.114.96.101&port=988#T.ME/@GiGPlus
 https://api.yebekhe.link/warp?key=&device_name=WARP+&singbox=true&ip=162.159.192.64&port=988#T.ME/@GiGPlus
-&port=988#T.ME/@GiGPlus
